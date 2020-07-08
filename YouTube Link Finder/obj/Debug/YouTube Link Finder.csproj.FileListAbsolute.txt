@@ -1,0 +1,7 @@
+C:\Users\FleshStinger\source\repos\YouTube Link Finder\bin\Debug\YouTube Link Finder.exe.config
+C:\Users\FleshStinger\source\repos\YouTube Link Finder\bin\Debug\YouTube Link Finder.exe
+C:\Users\FleshStinger\source\repos\YouTube Link Finder\bin\Debug\YouTube Link Finder.pdb
+C:\Users\FleshStinger\source\repos\YouTube Link Finder\obj\Debug\YouTube Link Finder.csprojAssemblyReference.cache
+C:\Users\FleshStinger\source\repos\YouTube Link Finder\obj\Debug\YouTube Link Finder.csproj.CoreCompileInputs.cache
+C:\Users\FleshStinger\source\repos\YouTube Link Finder\obj\Debug\YouTube Link Finder.exe
+C:\Users\FleshStinger\source\repos\YouTube Link Finder\obj\Debug\YouTube Link Finder.pdb
